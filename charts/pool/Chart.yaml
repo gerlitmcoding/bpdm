@@ -53,4 +53,3 @@ dependencies:
     repository: https://charts.bitnami.com/bitnami
     alias: postgres
     condition: postgres.enabled
-
